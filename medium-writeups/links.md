@@ -30,3 +30,6 @@
 
 11. 2FA Bypass on HackerOne via Race Condition - https://akashhamal0x01.medium.com/bypassing-hackerone-2fa-due-to-race-condition-8afe2dbff7c9
 <br>
+
+12. Free Trial Renew via Date Manipulation - https://strangerwhite.medium.com/time-is-a-bug-exploiting-trials-without-touching-a-single-tool-9a019bda8c02
+<br>
