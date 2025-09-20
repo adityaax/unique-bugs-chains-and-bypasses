@@ -27,3 +27,6 @@
 
 10. Email Verification Bypass via **Remember Me** Functionality - https://infosecwriteups.com/email-verification-bypass-via-remember-me-c6d34e6060e9
 <br>
+
+11. 2FA Bypass on HackerOne via Race Condition- https://akashhamal0x01.medium.com/bypassing-hackerone-2fa-due-to-race-condition-8afe2dbff7c9
+<br>
