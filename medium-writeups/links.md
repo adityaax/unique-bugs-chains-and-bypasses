@@ -3,3 +3,4 @@
 3. OTP Bypass via Directly Navigating to Dashboard Path : /dashboard or /profile - https://medium.com/@kailasv678/500-otp-bypass-found-it-proved-it-then-3930c9e45d4f
 4. Account Lockout Bypass via X-Forwarded-For Header - https://cybersecuritywriteups.com/easiest-account-lockout-bypass-ea2c82fb66c6
 5. Stealth Login via Modifying User-Agent Header's Value - https://medium.com/@luq0x/how-a-logic-flaw-allowed-silent-logins-in-a-financial-application-5eed48939018
+6. Zip Slip: Writing Files to Unintended Directories - https://medium.com/meetcyber/unzip-and-detonate-how-one-upload-can-break-the-filesystem-601ef62def4a
