@@ -2,7 +2,7 @@
 
 A curated collection of **rare vulnerabilities, bypasses, and attack chains** published by security researchers.
 
-> ⚠️ All content here comes from **public writeups**.  
+> ⚠️ All content here comes from **public writeups/posts**.  
 > This repository summarizes and links to them — full credit always goes to the original authors.
 
 
