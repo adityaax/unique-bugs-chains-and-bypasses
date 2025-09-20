@@ -18,3 +18,12 @@
 
 7. Pre-Account Takeover of Pending Admin via Profile Update Flow : Attacker With Low Privilege Edits His Profile to Set email / login as a Pending Admin’s Invitation Email > Logs In Using That Email and Attacker’s Password > Gains Full Administrative Access Without Inbox or Credentials - https://medium.com/@bassemwanies2002/pending-invite-hijack-takeover-via-improper-identity-linking-905619fff772
 <br>
+
+8. Email Verification Bypass Due to **"editEnabled": true** Parameter for Every Signup(Including Non-Verified Emails) - https://mo9khu93r.medium.com/discovered-a-unique-email-verification-bypass-47bb1e955a13
+<br>
+
+9. Rate Limit Bypass by Adding Spaces - https://mo9khu93r.medium.com/crypto-bounty-program-got-me-500-rate-limit-bypass-d573f7b7d390
+<br>
+
+10. Email Verification Bypass via **Remember Me** Functionality - https://infosecwriteups.com/email-verification-bypass-via-remember-me-c6d34e6060e9
+<br>
