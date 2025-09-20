@@ -22,7 +22,7 @@ This repository gathers **unique bugs & creative bypasses** in one place so rese
 ## 📄 Contributing
 We welcome pull requests that include:
 
-- Submissions of **unique bugs, bypasses, or chained attack chains**.
+- Submissions of **unique bugs, bypasses, or chained attack scenarios**.
 - Educational value for the community.
 
 
