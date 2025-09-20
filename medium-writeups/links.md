@@ -33,3 +33,6 @@
 
 12. Free Trial Renew via Date Manipulation - https://strangerwhite.medium.com/time-is-a-bug-exploiting-trials-without-touching-a-single-tool-9a019bda8c02
 <br>
+
+13. X-Forwarded-Host Leads to SQL Injection - https://logicbomb.medium.com/bugbounty-database-hacked-of-indias-popular-sports-company-bypassing-host-header-to-sql-7b9af997c610
+<br>
