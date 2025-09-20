@@ -15,3 +15,6 @@
 
 6. Zip Slip: Writing Files to Unintended Directories - https://medium.com/meetcyber/unzip-and-detonate-how-one-upload-can-break-the-filesystem-601ef62def4a
 <br>
+
+7. Pre-Account Takeover of Pending Admin via Profile Update Flow : Attacker With Low Privilege Edits His Profile to Set email / login as a Pending Admin’s Invitation Email > Logs In Using That Email and Attacker’s Password > Gains Full Administrative Access Without Inbox or Credentials - https://medium.com/@bassemwanies2002/pending-invite-hijack-takeover-via-improper-identity-linking-905619fff772
+<br>
