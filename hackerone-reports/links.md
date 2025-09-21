@@ -12,3 +12,6 @@
 
 5. XSS via Image Metadata Manipulation(**Comment** Attribute) and Changing **Content-Type** During Image Upload - https://hackerone.com/reports/964550
 <br>
+
+6. Client Side Authentication Bypass via Modifying Local Storage(Identified by Reading Js File) - https://hackerone.com/reports/1877989
+<br>
