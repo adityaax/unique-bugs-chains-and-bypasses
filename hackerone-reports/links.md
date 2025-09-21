@@ -9,3 +9,6 @@
 
 4. 403 Forbidden Bypass via **POST** with **Content-Length: 0** - https://hackerone.com/reports/991717
 <br>
+
+5. XSS via Image Metadata Manipulation(**Comment** Attribute) and Changing **Content-Type** During Image Upload - https://hackerone.com/reports/964550
+<br>
