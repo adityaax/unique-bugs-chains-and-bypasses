@@ -6,3 +6,6 @@
 
 3. Access Token Leakage via redirect_uri Bypass Using Homograph Attack - https://hackerone.com/reports/861940
 <br>
+
+4. 403 Forbidden Bypass via **POST** with **Content-Length: 0** - https://hackerone.com/reports/991717
+<br>
