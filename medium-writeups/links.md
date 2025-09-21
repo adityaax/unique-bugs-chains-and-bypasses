@@ -36,3 +36,6 @@
 
 13. X-Forwarded-Host Leads to SQL Injection - https://logicbomb.medium.com/bugbounty-database-hacked-of-indias-popular-sports-company-bypassing-host-header-to-sql-7b9af997c610
 <br>
+
+14. Code Execution via Email Field (Verified with Out-of-Band Callback) - https://infosecwriteups.com/how-i-found-my-first-high-severity-bug-and-got-rewarded-with-3-trays-of-red-bull-29ec0ca6a2e4
+<br>
