@@ -15,3 +15,9 @@
 
 6. Client Side Authentication Bypass via Modifying Local Storage(Identified by Reading Js File) - https://hackerone.com/reports/1877989
 <br>
+
+7. Linkfilter Bypass Using 。Instead of .[Dot] - https://hackerone.com/reports/291750
+<br>
+
+8. Homograph Fix Bypass - https://hackerone.com/reports/271324
+<br>
