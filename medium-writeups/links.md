@@ -39,3 +39,6 @@
 
 14. Code Execution via Email Field (Verified with Out-of-Band Callback) - https://infosecwriteups.com/how-i-found-my-first-high-severity-bug-and-got-rewarded-with-3-trays-of-red-bull-29ec0ca6a2e4
 <br>
+
+15. OAuth Misconfiguration Leads to Code Stealing - https://medium.com/@iski/mask-off-how-i-exploited-broken-oauth-to-login-as-anyone-f1ce3c88d9b2
+<br>
