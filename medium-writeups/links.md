@@ -42,3 +42,6 @@
 
 15. OAuth Misconfiguration Leads to Code Stealing - https://medium.com/@iski/mask-off-how-i-exploited-broken-oauth-to-login-as-anyone-f1ce3c88d9b2
 <br>
+
+16. Two XSSi(Cross Site Script Inclusion) Chained to Steal User Information - https://medium.com/@0xHyde/yahoo-two-xssi-vulnerabilities-chained-to-steal-user-information-750-bounty-e9bc6a41a40a
+<br>
