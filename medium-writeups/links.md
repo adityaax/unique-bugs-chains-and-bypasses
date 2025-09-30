@@ -45,3 +45,6 @@
 
 16. Two XSSi(Cross Site Script Inclusion) Chained to Steal User Information - https://medium.com/@0xHyde/yahoo-two-xssi-vulnerabilities-chained-to-steal-user-information-750-bounty-e9bc6a41a40a
 <br>
+
+17. Password Confirmation Bypass via Changing Content-Type - https://medium.com/@karim.hikal1/bypass-password-confirmation-on-change-email-d0e69bf0e99c
+<br>
