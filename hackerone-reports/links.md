@@ -21,3 +21,6 @@
 
 8. Homograph Fix Bypass - https://hackerone.com/reports/271324
 <br>
+
+9. Race Condition When Accepting Invitations Leads to Undeletable Member - https://hackerone.com/reports/604534
+<br>
