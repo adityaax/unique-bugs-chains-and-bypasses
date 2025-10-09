@@ -24,3 +24,6 @@
 
 9. Race Condition When Accepting Invitations Leads to Undeletable Member - https://hackerone.com/reports/604534
 <br>
+
+10. 2FA Bypass via Cookie Deletion - https://hackerone.com/reports/2315420
+<br>
