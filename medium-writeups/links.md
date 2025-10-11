@@ -48,3 +48,6 @@
 
 17. Password Confirmation Bypass via Changing Content-Type - https://medium.com/@karim.hikal1/bypass-password-confirmation-on-change-email-d0e69bf0e99c
 <br>
+
+18. SSRF Bypass via DNS Rebinding - https://anonysm.medium.com/bypassing-ssrf-restrictions-on-a-google-product-a-journey-through-dns-rebinding-a4e9d18213af
+<br>
