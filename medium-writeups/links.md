@@ -51,3 +51,6 @@
 
 18. SSRF Bypass via DNS Rebinding - https://anonysm.medium.com/bypassing-ssrf-restrictions-on-a-google-product-a-journey-through-dns-rebinding-a4e9d18213af
 <br>
+
+19. Race Condition Leads to Admin Account Takeover - https://medium.com/@ankitrathva/race-condition-leads-to-0-click-admin-account-takeover-6510f1914933
+<br>
