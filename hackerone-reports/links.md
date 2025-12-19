@@ -30,3 +30,6 @@
 
 11. Business Logic Flaw Allows Non-Premium Users to Abuse Cashback Rewards - https://hackerone.com/reports/672487
 <br>
+
+12. 2FA Requirement Bypass via Business Logic Flaw - https://hackerone.com/reports/2571981
+<br>
