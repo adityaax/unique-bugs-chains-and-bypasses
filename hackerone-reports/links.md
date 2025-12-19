@@ -27,3 +27,6 @@
 
 10. 2FA Bypass via Cookie Deletion - https://hackerone.com/reports/2315420
 <br>
+
+11. Business Logic Flaw Allows Non-Premium Users to Abuse Cashback Rewards - https://hackerone.com/reports/672487
+<br>
