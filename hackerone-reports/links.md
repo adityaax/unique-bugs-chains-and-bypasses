@@ -36,3 +36,6 @@
 
 13. Execution After Redirect Leads to Unauthorized Access - https://hackerone.com/reports/1397564
 <br>
+
+14. Restriction Bypass via Airplane Mode - https://hackerone.com/reports/3136790
+<br>
