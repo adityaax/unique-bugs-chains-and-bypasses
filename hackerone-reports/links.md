@@ -33,3 +33,6 @@
 
 12. 2FA Requirement Bypass via Business Logic Flaw - https://hackerone.com/reports/2571981
 <br>
+
+13. Execution After Redirect Leads to Unauthorized Access - https://hackerone.com/reports/1397564
+<br>
