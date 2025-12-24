@@ -55,7 +55,8 @@
 19. Race Condition Leads to Admin Account Takeover - https://medium.com/@ankitrathva/race-condition-leads-to-0-click-admin-account-takeover-6510f1914933
 <br>
 
-20. Unlimited Premium Subscription on LinkedIn via Checkout Parameter Trust - https://aidilarf.medium.com/part-2-anyone-can-use-unlimited-trial-premium-on-accounts-that-have-used-trial-premium-before-b1ac65c9a2d6
+20. Improper Validation of Checkout Parameters in Premium Subscription Flow - https://aidilarf.medium.com/part-2-anyone-can-use-unlimited-trial-premium-on-accounts-that-have-used-trial-premium-before-b1ac65c9a2d6
 <br>
-20. 2FA Misconfiguration(Usage of Same Phone Number on Different Accounts) - https://medium.com/@ravindrajatav0709/how-i-found-a-critical-2fa-misconfiguration-and-earned-a-2000-bug-bounty-d1ed934dffec
+
+21. 2FA Misconfiguration(Usage of Same Phone Number on Different Accounts) - https://medium.com/@ravindrajatav0709/how-i-found-a-critical-2fa-misconfiguration-and-earned-a-2000-bug-bounty-d1ed934dffec
 <br>
