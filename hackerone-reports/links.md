@@ -39,3 +39,6 @@
 
 14. Restriction Bypass via Airplane Mode - https://hackerone.com/reports/3136790
 <br>
+
+15. Bypassing Domain Restrictions Using Unicode Character Manipulation - https://hackerone.com/reports/2033005
+<br>
