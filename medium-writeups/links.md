@@ -60,3 +60,6 @@
 
 21. 2FA Misconfiguration(Usage of Same Phone Number on Different Accounts) - https://medium.com/@ravindrajatav0709/how-i-found-a-critical-2fa-misconfiguration-and-earned-a-2000-bug-bounty-d1ed934dffec
 <br>
+
+22. Subscription Logic Flaw Leading to Premium Feature Access Without Payment - https://medium.com/@hossam_hamada/subscription-bypass-leading-to-full-access-to-paid-features-7c3a1bf6487c
+<br>
