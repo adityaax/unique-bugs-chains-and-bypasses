@@ -42,3 +42,6 @@
 
 15. Bypassing Domain Restrictions Using Unicode Character Manipulation - https://hackerone.com/reports/2033005
 <br>
+
+16. Improper Email Normalization Allows Account Lockout via Case-Sensitive Duplicate Registration - https://hackerone.com/reports/187714
+<br>
