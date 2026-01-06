@@ -63,3 +63,6 @@
 
 22. Subscription Logic Flaw Leading to Premium Feature Access Without Payment - https://medium.com/@hossam_hamada/subscription-bypass-leading-to-full-access-to-paid-features-7c3a1bf6487c
 <br>
+
+23. Email Verification Bypass to 0-Click Account Takeover - https://medium.com/@y.elsayed4315/from-email-verification-to-0-click-account-takeover-7a46a0e8bdc8
+<br>
