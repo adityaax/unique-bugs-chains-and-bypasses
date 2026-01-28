@@ -66,3 +66,6 @@
 
 23. Email Verification Bypass to 0-Click Account Takeover - https://medium.com/@y.elsayed4315/from-email-verification-to-0-click-account-takeover-7a46a0e8bdc8
 <br>
+
+24. Workspace Takeover via XSS(WAF Bypass) + CSRF - https://medium.com/@ph4nt0mbyt3/one-click-workspace-takeover-exploiting-xss-and-csrf-waf-bypass-f-ck-httponly-e4e9fbbaed75
+<br>
