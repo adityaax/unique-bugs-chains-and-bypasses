@@ -69,3 +69,6 @@
 
 24. Workspace Takeover via XSS(WAF Bypass) + CSRF - https://medium.com/@ph4nt0mbyt3/one-click-workspace-takeover-exploiting-xss-and-csrf-waf-bypass-f-ck-httponly-e4e9fbbaed75
 <br>
+
+25. Creating Invisible Identities Using Zero-Width Characters - https://medium.com/@eng.mahmoudbughunter/how-a-small-validation-bypass-enabled-invisible-identities-cc600577b98d
+<br>
