@@ -72,3 +72,6 @@
 
 25. Creating Invisible Identities Using Zero-Width Characters - https://medium.com/@eng.mahmoudbughunter/how-a-small-validation-bypass-enabled-invisible-identities-cc600577b98d
 <br>
+
+26. Username and Email Collision Leads to Victim's Account Lockout - https://medium.com/@0xMo7areb/username-email-collision-leading-to-account-lockout-and-identity-collision-%EF%B8%8F-1cc963fb3d38
+<br>
