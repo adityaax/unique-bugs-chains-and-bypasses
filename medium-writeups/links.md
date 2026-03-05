@@ -75,3 +75,6 @@
 
 26. Username and Email Collision Leads to Victim's Account Lockout - https://medium.com/@0xMo7areb/username-email-collision-leading-to-account-lockout-and-identity-collision-%EF%B8%8F-1cc963fb3d38
 <br>
+
+27. Hidden Role Modification via 403 Bypass using a space - https://0xhun73r.medium.com/how-i-found-a-hidden-role-in-javascript-that-became-a-permanent-backdoor-d78acb8b81af
+<br>
