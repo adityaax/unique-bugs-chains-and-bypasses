@@ -78,3 +78,6 @@
 
 27. Hidden Role Modification via 403 Bypass using a space - https://0xhun73r.medium.com/how-i-found-a-hidden-role-in-javascript-that-became-a-permanent-backdoor-d78acb8b81af
 <br>
+
+28. XSS + CORS + CSRF with OAuth Misconfiguration Leads to Account Takeover - https://medium.com/@mohammed01550038865/how-i-used-reflected-xss-cors-to-get-1-click-oauth-misconfiguration-82088e94c96c
+<br>
