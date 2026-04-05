@@ -81,3 +81,6 @@
 
 28. XSS + CORS + CSRF with OAuth Misconfiguration Leads to Account Takeover - https://medium.com/@mohammed01550038865/how-i-used-reflected-xss-cors-to-get-1-click-oauth-misconfiguration-82088e94c96c
 <br>
+
+29. 2FA Bypass via Email Verification Link - https://srahulceh.medium.com/behind-the-scenes-of-a-security-bug-the-perils-of-2fa-cookie-generation-496d9519771b
+<br>
