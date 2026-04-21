@@ -84,3 +84,6 @@
 
 29. 2FA Bypass via Email Verification Link - https://srahulceh.medium.com/behind-the-scenes-of-a-security-bug-the-perils-of-2fa-cookie-generation-496d9519771b
 <br>
+
+30. Authentication Bypass via localStorage Manipulation - https://medium.com/@laganparihar/how-i-bypassed-authentication-and-earned-a-300-bounty-e6c4b6554b8b
+<br>
