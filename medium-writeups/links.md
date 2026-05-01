@@ -87,3 +87,6 @@
 
 30. Authentication Bypass via localStorage Manipulation - https://medium.com/@laganparihar/how-i-bypassed-authentication-and-earned-a-300-bounty-e6c4b6554b8b
 <br>
+
+31. Account Takeover Through Password Reset Poisoning by Modifying Content-Type - https://hackerone.com/reports/2293343
+<br>
