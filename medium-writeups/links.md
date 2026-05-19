@@ -90,3 +90,6 @@
 
 31. Account Takeover Through Password Reset Poisoning by Modifying Content-Type - https://hackerone.com/reports/2293343
 <br>
+
+32. SQL Injection Without Special Characters- https://medium.com/@r9.mody/sql-injection-in-numeric-parameter-int-without-common-special-characters-ae31e15ea3e3
+<br>
