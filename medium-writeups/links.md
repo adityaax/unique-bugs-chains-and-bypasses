@@ -93,3 +93,6 @@
 
 32. SQL Injection Without Special Characters- https://medium.com/@r9.mody/sql-injection-in-numeric-parameter-int-without-common-special-characters-ae31e15ea3e3
 <br>
+
+33. 2FA Bypass Through Pre-Auth JWT on GraphQL Phone Update Mutation - https://medium.com/@anamorsyai/how-i-bypassed-2fa-by-mutating-my-profile-phone-number-in-graphql-request-b8d23efa0a95
+<br>
