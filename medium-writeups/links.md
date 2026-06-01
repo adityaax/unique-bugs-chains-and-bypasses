@@ -88,11 +88,8 @@
 30. Authentication Bypass via localStorage Manipulation - https://medium.com/@laganparihar/how-i-bypassed-authentication-and-earned-a-300-bounty-e6c4b6554b8b
 <br>
 
-31. Account Takeover Through Password Reset Poisoning by Modifying Content-Type - https://hackerone.com/reports/2293343
+31. SQL Injection Without Special Characters- https://medium.com/@r9.mody/sql-injection-in-numeric-parameter-int-without-common-special-characters-ae31e15ea3e3
 <br>
 
-32. SQL Injection Without Special Characters- https://medium.com/@r9.mody/sql-injection-in-numeric-parameter-int-without-common-special-characters-ae31e15ea3e3
-<br>
-
-33. 2FA Bypass Through Pre-Auth JWT on GraphQL Phone Update Mutation - https://medium.com/@anamorsyai/how-i-bypassed-2fa-by-mutating-my-profile-phone-number-in-graphql-request-b8d23efa0a95
+32. 2FA Bypass Through Pre-Auth JWT on GraphQL Phone Update Mutation - https://medium.com/@anamorsyai/how-i-bypassed-2fa-by-mutating-my-profile-phone-number-in-graphql-request-b8d23efa0a95
 <br>
