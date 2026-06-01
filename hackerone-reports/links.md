@@ -45,3 +45,9 @@
 
 16. Improper Email Normalization Allows Account Lockout via Case-Sensitive Duplicate Registration - https://hackerone.com/reports/187714
 <br>
+
+17. Account Takeover Through Password Reset Poisoning by Modifying Content-Type - https://hackerone.com/reports/2293343
+<br>
+
+18. Parameter Pollution in Smart2Pay Signature Validation Allows Arbitrary Steam Wallet Credit - https://hackerone.com/reports/1295844
+<br>
