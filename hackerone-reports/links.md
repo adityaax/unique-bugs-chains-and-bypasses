@@ -51,3 +51,6 @@
 
 18. Parameter Pollution in Smart2Pay Signature Validation Allows Arbitrary Steam Wallet Credit - https://hackerone.com/reports/1295844
 <br>
+
+19. RCE via .gif file - https://hackerone.com/reports/365271
+<br>
