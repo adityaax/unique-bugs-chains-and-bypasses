@@ -54,3 +54,6 @@
 
 19. RCE via .gif file - https://hackerone.com/reports/365271
 <br>
+
+20. Improper Validation of OAuth Access Tokens Allows Authentication Using Tokens Issued for Arbitrary Third-Party Applications, Leading to Account Takeover - https://hackerone.com/reports/314808
+<br>
