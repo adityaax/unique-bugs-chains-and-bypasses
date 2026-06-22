@@ -93,3 +93,6 @@
 
 32. 2FA Bypass Through Pre-Auth JWT on GraphQL Phone Update Mutation - https://medium.com/@anamorsyai/how-i-bypassed-2fa-by-mutating-my-profile-phone-number-in-graphql-request-b8d23efa0a95
 <br>
+
+33. Mass Account Takeover via IDOR by Injecting the Email Change Parameter from a Separate Profile Update Workflow - https://medium.com/@mrasg/mass-account-takeover-in-stripes-taxjar-a-one-click-exploit-6fd13bb75f04
+<br>
