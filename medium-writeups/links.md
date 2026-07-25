@@ -96,3 +96,6 @@
 
 33. Mass Account Takeover via IDOR by Injecting the Email Change Parameter from a Separate Profile Update Workflow - https://medium.com/@mrasg/mass-account-takeover-in-stripes-taxjar-a-one-click-exploit-6fd13bb75f04
 <br>
+
+34. Business Logic Flaw Allows Joining an Ownerless Organization via Stale Invitation - https://medium.com/@0xMo7areb/the-organization-had-no-owner-yet-i-could-still-join-it-605016230d2d
+<br>
