@@ -102,3 +102,6 @@
 
 35. (XSS) due to Incomplete Input Sanitization - https://medium.com/@elko0k/how-i-found-a-reflected-xss-and-bypassed-wordfence-waf-a7a120a0b952
 <br>
+
+36. Client-Controlled X-Forwarded-Host Was Server-Signed into OAuth State, Redirecting Google Authorization Codes and Causing Full Account Takeover - https://uchihamrx.medium.com/the-header-that-signed-itself-full-account-takeover-in-a-google-sso-flow-940ed68b77e2
+<br>
