@@ -99,3 +99,6 @@
 
 34. Business Logic Flaw Allows Joining an Ownerless Organization via Stale Invitation - https://medium.com/@0xMo7areb/the-organization-had-no-owner-yet-i-could-still-join-it-605016230d2d
 <br>
+
+35. (XSS) due to Incomplete Input Sanitization - https://medium.com/@elko0k/how-i-found-a-reflected-xss-and-bypassed-wordfence-waf-a7a120a0b952
+<br>
