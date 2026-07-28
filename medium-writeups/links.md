@@ -105,3 +105,6 @@
 
 36. Client-Controlled X-Forwarded-Host Was Server-Signed into OAuth State, Redirecting Google Authorization Codes and Causing Full Account Takeover - https://uchihamrx.medium.com/the-header-that-signed-itself-full-account-takeover-in-a-google-sso-flow-940ed68b77e2
 <br>
+
+37. ATO via XSS + CSRF and Browser Autofill Password - https://medium.com/@mohamedmehina31/account-takeover-via-xss-csrf-and-browser-autofill-password-8f8a00fd9ae3
+<br>
