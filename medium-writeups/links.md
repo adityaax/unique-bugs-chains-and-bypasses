@@ -108,3 +108,6 @@
 
 37. ATO via XSS + CSRF and Browser Autofill Password - https://medium.com/@mohamedmehina31/account-takeover-via-xss-csrf-and-browser-autofill-password-8f8a00fd9ae3
 <br>
+
+38. Directory Traversal in Action Parameter Enables Internal API Abuse - https://0xsponge.medium.com/to-admin-for-a-bounty-b946f781607f
+<br>
