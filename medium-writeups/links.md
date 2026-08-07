@@ -111,3 +111,6 @@
 
 38. Directory Traversal in Action Parameter Enables Internal API Abuse - https://0xsponge.medium.com/to-admin-for-a-bounty-b946f781607f
 <br>
+
+39. RCE via MIME Type Validation Bypass - https://rootvuln.medium.com/from-file-upload-to-remote-code-execution-how-i-bypassed-mime-type-validation-d571e7c27645
+<br>
