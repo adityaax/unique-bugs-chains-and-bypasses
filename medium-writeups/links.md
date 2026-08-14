@@ -117,3 +117,6 @@
 
 40. Command Injection via Malicious EXIF Metadata in Image Processing - https://medium.com/@t3nv1/how-a-100-profile-picture-glitch-turned-into-a-9-000-zero-day-reward-e82bb8c084e8
 <br>
+
+41. SSRF Protection Bypass via HTTP Redirect to Internal Resources - https://medium.com/@rajnamdev/how-a-single-http-redirect-bypassed-ssrf-filters-on-4-programs-over-8-years-4f67437ba6c7
+<br>
