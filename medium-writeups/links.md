@@ -120,3 +120,9 @@
 
 41. SSRF Protection Bypass via HTTP Redirect to Internal Resources - https://medium.com/@rajnamdev/how-a-single-http-redirect-bypassed-ssrf-filters-on-4-programs-over-8-years-4f67437ba6c7
 <br>
+
+42. From Organization Invitation Abuse to Cross-Application Privilege Downgrade: Three RBAC Vulnerabilities - https://medium.com/@omaralgbry1/one-invitation-three-vulnerabilities-breaking-rbac-across-two-applications-f66508af3e83
+<br>
+
+43. GraphQL CSRF Through Improper HTTP Method Validation and Content-Type Misconfiguration - https://medium.com/@divyanksitapara088/exploiting-csrf-in-graphql-apis-achieving-unauthorized-crud-operations-bounty-038522c39a40
+<br>
