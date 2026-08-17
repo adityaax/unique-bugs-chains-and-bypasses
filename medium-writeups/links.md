@@ -126,3 +126,9 @@
 
 43. GraphQL CSRF Through Improper HTTP Method Validation and Content-Type Misconfiguration - https://medium.com/@divyanksitapara088/exploiting-csrf-in-graphql-apis-achieving-unauthorized-crud-operations-bounty-038522c39a40
 <br>
+
+44. Race Condition in Email Verification Allows Admin Invite Hijacking - https://lolidkmyname.medium.com/racing-an-email-verification-to-hijack-an-admin-invite-b14264749356
+<br>
+
+45. Integer Overflow Allows Purchases for $0 - https://rohitdalal.medium.com/how-an-integer-overflow-let-me-buy-anything-for-0-b1d2ed8bffdd
+<br>
