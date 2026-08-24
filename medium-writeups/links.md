@@ -132,3 +132,9 @@
 
 45. Integer Overflow Allows Purchases for $0 - https://rohitdalal.medium.com/how-an-integer-overflow-let-me-buy-anything-for-0-b1d2ed8bffdd
 <br>
+
+46. Cloudflare Access Authentication Boundary Not Enforced on API Endpoints, Enabling Unauthenticated Resource Exhaustion - https://medium.com/@test123cybertest/from-a-cache-header-to-a-400-bug-bounty-my-api-security-research-1b6a3cacb76e
+<br>
+
+47. Cross-Tenant Access via Path Traversal in relative_entity_path parameter - https://medium.com/@HariHax/a-400-is-not-a-dead-end-my-first-bug-bounty-250-0fd813c24f55
+<br>
