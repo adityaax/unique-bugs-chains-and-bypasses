@@ -115,7 +115,7 @@
 39. RCE via MIME Type Validation Bypass - https://rootvuln.medium.com/from-file-upload-to-remote-code-execution-how-i-bypassed-mime-type-validation-d571e7c27645
 <br>
 
-40. Command Injection via Malicious EXIF Metadata in Image Processing - https://medium.com/@t3nv1/how-a-100-profile-picture-glitch-turned-into-a-9-000-zero-day-reward-e82bb8c084e8
+40. Command Injection via Malicious EXIF Metadata in Image Processing - https://medium.com/@t4nv1/how-an-unsanitized-exif-metadata-parser-led-to-command-injection-and-a-10-000-bounty-6a6991dc1a51
 <br>
 
 41. SSRF Protection Bypass via HTTP Redirect to Internal Resources - https://medium.com/@rajnamdev/how-a-single-http-redirect-bypassed-ssrf-filters-on-4-programs-over-8-years-4f67437ba6c7
