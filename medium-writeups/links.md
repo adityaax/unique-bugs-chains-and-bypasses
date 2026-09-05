@@ -138,3 +138,9 @@
 
 47. Cross-Tenant Access via Path Traversal in relative_entity_path parameter - https://medium.com/@HariHax/a-400-is-not-a-dead-end-my-first-bug-bounty-250-0fd813c24f55
 <br>
+
+48. Race Condition Allows Organization to Have Zero Owners - http://medium.com/@0xMo7areb/%EF%B8%8Fthe-organization-had-users-but-nobody-could-own-it-ae9e7513a969
+<br>
+
+49. BOLA Allows Unauthorized Access to Other Users' Draft Product Metadata - https://medium.com/@sari.mmusab/300-etag-bounty-9f6e9aecc12e
+<br>
