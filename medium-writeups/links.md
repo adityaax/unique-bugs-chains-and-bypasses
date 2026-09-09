@@ -144,3 +144,6 @@
 
 49. BOLA Allows Unauthorized Access to Other Users' Draft Product Metadata - https://medium.com/@sari.mmusab/300-etag-bounty-9f6e9aecc12e
 <br>
+
+50. Changing /password to /email Bypasses OTP and Allows Account Takeover - https://medium.com/@ma6632174/i-wasnt-hunting-an-email-bug-i-just-changed-one-word-d3a73db6f9cf
+<br>
