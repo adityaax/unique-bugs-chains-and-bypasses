@@ -60,3 +60,6 @@
 
 21. 1-Click Account Takeover via Open Redirect through Regex Bypass in Domain Validation - https://hackerone.com/reports/3723458
 <br>
+
+22. CRLF Injection via redirect_uri Parameter - https://hackerone.com/reports/2147132
+<br>
