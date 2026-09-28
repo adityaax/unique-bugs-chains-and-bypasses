@@ -147,3 +147,6 @@
 
 50. Changing /password to /email Bypasses OTP and Allows Account Takeover - https://medium.com/@ma6632174/i-wasnt-hunting-an-email-bug-i-just-changed-one-word-d3a73db6f9cf
 <br>
+
+51. Unauthenticated GraphQL Alias Abuse Enables Denial of Service via Password Reset Mutation - https://medium.com/@ahmed.mahmoud.infosec/turning-a-graphql-aliasing-quirk-into-a-fully-reproducible-denial-of-service-attack-03efec109a5a
+<br>
