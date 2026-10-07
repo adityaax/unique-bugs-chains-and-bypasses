@@ -150,3 +150,6 @@
 
 51. Unauthenticated GraphQL Alias Abuse Enables Denial of Service via Password Reset Mutation - https://medium.com/@ahmed.mahmoud.infosec/turning-a-graphql-aliasing-quirk-into-a-fully-reproducible-denial-of-service-attack-03efec109a5a
 <br>
+
+52. Single-Click Account Takeover via Chained CSRF and Stored XSS - https://medium.com/@DrakenKun/from-waf-bypass-to-account-takeover-chaining-logic-flaws-csrf-in-stock-photo-platform-920ae45c936d
+<br>
