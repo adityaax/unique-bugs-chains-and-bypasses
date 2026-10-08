@@ -153,3 +153,6 @@
 
 52. Single-Click Account Takeover via Chained CSRF and Stored XSS - https://medium.com/@DrakenKun/from-waf-bypass-to-account-takeover-chaining-logic-flaws-csrf-in-stock-photo-platform-920ae45c936d
 <br>
+
+53. OS Command Injection via User-Controlled Filename in Video Processing Pipeline - https://medium.com/@t4nv1/14-200-for-a-filename-with-too-many-characters-command-injection-in-a-video-processing-pipeline-a665a48ad9b0
+<br>
