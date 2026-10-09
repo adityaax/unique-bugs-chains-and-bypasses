@@ -156,3 +156,6 @@
 
 53. OS Command Injection via User-Controlled Filename in Video Processing Pipeline - https://medium.com/@t4nv1/14-200-for-a-filename-with-too-many-characters-command-injection-in-a-video-processing-pipeline-a665a48ad9b0
 <br>
+
+54. Improper Email Canonicalization via Dot Insertion Enables Self-Referral Reward Abuse - https://ousski.medium.com/the-dot-that-broke-a-referral-program-5ac747ffcf6e
+<br>
