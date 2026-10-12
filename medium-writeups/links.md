@@ -159,3 +159,6 @@
 
 54. Improper Email Canonicalization via Dot Insertion Enables Self-Referral Reward Abuse - https://ousski.medium.com/the-dot-that-broke-a-referral-program-5ac747ffcf6e
 <br>
+
+55. Missing Origin Validation in WebSocket Handshake Enables Cross-Site WebSocket Hijacking - https://medium.com/@t4nv1/7-000-for-a-handshake-nobody-checked-cross-site-websocket-hijacking-e3fe8321a5c0
+<br>
