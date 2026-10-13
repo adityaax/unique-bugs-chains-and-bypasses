@@ -162,3 +162,6 @@
 
 55. Missing Origin Validation in WebSocket Handshake Enables Cross-Site WebSocket Hijacking - https://medium.com/@t4nv1/7-000-for-a-handshake-nobody-checked-cross-site-websocket-hijacking-e3fe8321a5c0
 <br>
+
+56. Client-Controlled Participant IDs Enable Lobby Moderation Bypass and Guest Impersonation - https://medium.com/@moatymohamed897/i-asked-how-guests-get-their-identity-and-found-a-meeting-logic-flaw-66252694b409
+<br>
