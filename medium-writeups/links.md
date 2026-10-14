@@ -165,3 +165,6 @@
 
 56. Client-Controlled Participant IDs Enable Lobby Moderation Bypass and Guest Impersonation - https://medium.com/@moatymohamed897/i-asked-how-guests-get-their-identity-and-found-a-meeting-logic-flaw-66252694b409
 <br>
+
+57. The Billion Laughs Attack: Turning a Tiny XML File into a Stored DoS - https://medium.com/@devyanipardesh7010/one-file-zero-clicks-needed-a-stored-dos-story-68725c5703c3
+<br>
