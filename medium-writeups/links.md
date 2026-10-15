@@ -168,3 +168,6 @@
 
 57. The Billion Laughs Attack: Turning a Tiny XML File into a Stored DoS - https://medium.com/@devyanipardesh7010/one-file-zero-clicks-needed-a-stored-dos-story-68725c5703c3
 <br>
+
+58. Microsoft Edge Copilot: Prompt Injection Leads to Cross-Tab Data Exfiltration via Base64 Image URLs - https://jianyangsong.medium.com/cve-2026-47644-12-000-edge-copilot-prompt-injection-leads-to-cross-tab-data-exfiltration-34373b81b865
+<br>
