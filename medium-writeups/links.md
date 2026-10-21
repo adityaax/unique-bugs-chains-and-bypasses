@@ -171,3 +171,6 @@
 
 58. Microsoft Edge Copilot: Prompt Injection Leads to Cross-Tab Data Exfiltration via Base64 Image URLs - https://jianyangsong.medium.com/cve-2026-47644-12-000-edge-copilot-prompt-injection-leads-to-cross-tab-data-exfiltration-34373b81b865
 <br>
+
+59. Race Condition in Password Reset/Vote and Broken Access Control - https://medium.com/@tomahawk0ctf/the-logic-vulnerabilities-is-always-worth-it-a183211d7669
+<br>
