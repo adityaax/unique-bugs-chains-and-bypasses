@@ -174,3 +174,6 @@
 
 59. Race Condition in Password Reset/Vote and Broken Access Control - https://medium.com/@tomahawk0ctf/the-logic-vulnerabilities-is-always-worth-it-a183211d7669
 <br>
+
+60. MFA Bypass via SSO Login by Reusing an Incomplete Password Authentication Session - https://medium.com/@t4nv1/11-000-for-two-login-flows-that-shared-a-memory-a-session-puzzling-bug-that-skipped-mfa-entirely-4636eba36d09
+<br>
