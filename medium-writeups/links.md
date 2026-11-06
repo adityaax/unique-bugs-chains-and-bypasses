@@ -177,3 +177,6 @@
 
 60. MFA Bypass via SSO Login by Reusing an Incomplete Password Authentication Session - https://medium.com/@t4nv1/11-000-for-two-login-flows-that-shared-a-memory-a-session-puzzling-bug-that-skipped-mfa-entirely-4636eba36d09
 <br>
+
+61. Shopify Merchant Account Takeover via Email Verification and Account Merge Authentication Bypass (Including SSO-Protected Accounts) - https://medium.com/@l4zz3rj0d/how-a-broken-email-confirmation-flow-took-over-any-shopify-store-0bc8ea8cc5ad
+<br>
