@@ -180,3 +180,6 @@
 
 61. Shopify Merchant Account Takeover via Email Verification and Account Merge Authentication Bypass (Including SSO-Protected Accounts) - https://medium.com/@l4zz3rj0d/how-a-broken-email-confirmation-flow-took-over-any-shopify-store-0bc8ea8cc5ad
 <br>
+
+62. Instagram Email Verification Bypass via Password Reset Magic Link - https://medium.com/@avinash_/email-confirmation-bypass-at-instagram-cc968f9a126
+<br>
