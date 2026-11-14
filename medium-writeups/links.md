@@ -183,3 +183,6 @@
 
 62. Instagram Email Verification Bypass via Password Reset Magic Link - https://medium.com/@avinash_/email-confirmation-bypass-at-instagram-cc968f9a126
 <br>
+
+63. Race Condition in Multi-Step OTP Authentication Allows Account Takeover of Any User - https://medium.com/@keizobugbounty/race-condition-authentication-bypass-leads-to-full-account-takeover-6b5c9bc0a54d
+<br>
